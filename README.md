@@ -23,11 +23,12 @@ I bridge the gap between low-level performance, full-stack scalability, and soci
 ### 🚀 Featured Repositories
 
 | Project | Description | Stack | Impact / Metric |
-| :--- | :--- | :--- | :--- |
-| **[Harmonies Engine](#)** | OOP engine for the complex board game *Harmonies*. Memory-safe, modular design. | `C++` `GitLab` `OOP` | Built in a 5-dev team; 100% test coverage for core logic; |
-| **[ProjetQuizz](#)** | Multi-screen real-time interactive quiz platform with host/player separation. | `JavaScript` `Firebase` `HTML/CSS` | Sub-50ms synchronization latency across 5+ concurrent live devices via QR code. |
-| **[ExtraData](#)** | Automated document parsing and OCR pipeline for financial documents. | `Python` `Pandas` `Pytesseract` | Extracted key metrics from complex PDF invoices with a 95% accuracy rate. |
-| **[Immo'Dash](#)** | Interactive analytics dashboard for residential real estate management. | `React` `Vite` `Tailwind CSS` | Reduced simulated workflow task completion times by 30% through modular UI. |
+| --- | --- | --- | --- |
+| **[Harmonies Engine](https://www.google.com/search?q=https://github.com/Topazz1/harmonies-lo21)** | OOP engine and tactical GUI for the board game *Harmonies*. Robust memory allocation and modular state machine. | `C++` `Qt` `GitLab` `OOP` | Built in an agile team of 5; full test coverage for game mechanics. |
+| **[ProjetQuizz](https://www.google.com/search?q=https://github.com/Topazz1/projetquizz)** | Multi-screen real-time quiz architecture with atomic buzzer lockout and synchronized host/admin views. | `JavaScript` `Firebase` `HTML/CSS` | Sub-50ms synchronization latency across concurrent mobile devices via instant QR code onboarding. |
+| **[ExtraData](https://www.google.com/search?q=https://github.com/Topazz1/extradata-pdf-extractor)** | Desktop extraction pipeline converting unstructured PDF invoices into standardized tabular datasets. | `Python` `pdfplumber` `Pandas` `CustomTkinter` | Achieved 95% automated field recognition accuracy across multi-format billing documents. |
+| **[D&D Tabletop](https://www.google.com/search?q=https://github.com/Topazz1/d-d-tabletop)** | Real-time Virtual Tabletop (VTT) platform featuring dual DM/Player dashboards and synchronized dice physics. | `React` `Vite` `Firebase` `Framer Motion` | Automated initiative tracking and combat engine with zero-latency screen-wide roll broadcasts. |
+| **[Rhodes OS Portfolio](https://www.google.com/search?q=https://github.com/Topazz1/portfolio)** | Tactical HUD portfolio featuring trigonometric 3D-to-2D projection mapping, DAG laser routing, and archives. | `React` `TypeScript` `Tailwind CSS` `Framer Motion` | Trigonometric camera rendering engine with fluid multi-stage cinematic targeting sequences. |
 
 ---
 
