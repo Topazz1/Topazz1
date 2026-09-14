@@ -38,10 +38,3 @@ As part of the **HuTech** track at UTC, I investigate the societal feedback loop
 - **Field Inquiries:** Conducted qualitative sociological audits analyzing how workplace routines adapt to automation and industrial inertias.
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tomPadovani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Tom's GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomPadovani&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="150" />
-</p>
